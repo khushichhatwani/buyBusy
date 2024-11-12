@@ -1,7 +1,6 @@
 <h1>BuyBusy</h1>
+<img src="./src/Assets/BuyBusy1.png">
 <p>This is an online shopping / eCommerce website made using Reactjs, firebase database for storing data on cloud and ContextAPI for store state and creating functions. On this site any user can signUp and signIn in his/her account. A user can add or remove product from cart , he can increase or decrease product quantity and can place order. User data will be saved in firebase database, So the user can view his purchase history anytime.</p>
-
-<a href="https://buybusy-rajxode.netlify.app/">Go Live to Website</a>
 
 
 <h2>Installation and running code</h2>
@@ -25,6 +24,18 @@
   <li>User can see his placed order history with date and time of order and list of all the product purchased with total amount.</li></li>
   <li>User data will be saved in database permanently so that he can see his order history any time.</li>
 </ul>
+
+
+<img src="./src/Assets/BuyBusy1.png">
+<img src="./src/Assets/BuyBusy2.png">
+<img src="./src/Assets/BuyBusy3.png">
+<img src="./src/Assets/BuyBusy4.png">
+<img src="./src/Assets/BuyBusy5.png">
+<img src="./src/Assets/BuyBusy6.png">
+<img src="./src/Assets/BuyBusy7.png">
+<img src="./src/Assets/BuyBusy8.png">
+
+
 
 <h2>Tools and libraries</h2>
 <ul>
