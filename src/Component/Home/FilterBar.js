@@ -25,7 +25,7 @@ export default function FilterBar(props){
                 {/* slider  */}
                 <input type="range" 
                     min="100" 
-                    max="50000" 
+                    max="200000" 
                     value={price} 
                     onChange={(e) => setPrice(e.target.value)} />
             </div>

@@ -1,7 +1,7 @@
 
 /* main container of the navbar */
 .navbarContainer{
-    background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+    background-color: #0f4c71;
     width: 90%;
     height: 50px;
     display: flex;
@@ -16,7 +16,9 @@
     z-index: 99;
     color:white;
 }
-
+.appName a{
+    color: aliceblue;
+}
 /* app name inside navbar */
 .appName a:hover{
     color: white;

@@ -48,17 +48,17 @@ table{
     width: 100%;
     font-weight: 600;
     border-collapse: collapse;
-    color:#cb75c8;
+    color:#fff;
 }
 
 /* table's cell style */
 th,td{
-    background-color: #a3c1ff;
+    background-color: #6f9df9;
     border:2px solid #d2ebf1d6;
 }
 
 /* table heading color */
 th{
-    color: blueviolet;
+    color: #000;
 }
 

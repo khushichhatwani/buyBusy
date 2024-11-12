@@ -39,6 +39,7 @@ export default function ItemCard(props){
                         </div>
                     </div>
                     
+                    </div>
 
                     {/* add to cart button */}
                     <div className={styles.btnContainer}>
@@ -48,7 +49,6 @@ export default function ItemCard(props){
                         </button>
                     </div>
 
-                </div>
 
             </div>
         </>
